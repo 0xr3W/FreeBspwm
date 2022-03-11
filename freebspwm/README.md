@@ -1,6 +1,6 @@
 # Instalación
 ```
-git clone https://github.com/yorkox0/FreeBspwm
+git clone https://github.com/0xr3W/FreeBspwm
 cd freebspwm/
 python3 main.py
 ```
